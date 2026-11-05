@@ -1,4 +1,4 @@
-Hi, I’m Ammar 👋
+Hi, I’m Muhammad Ammar Anjum! 👋
 
 ### 🚀 React Native Developer | Cross-Platform Mobile App Developer
 
@@ -15,7 +15,7 @@ I’m a passionate developer focused on building modern, responsive, and user-fr
 
 Languages: JavaScript (ES6+), TypeScript (Basics), C++
 
-Frontend & Mobile: React, React Native, Expo, HTML, CSS
+Frontend & Mobile: React, React Native, Expo & CLI, HTML, CSS
 
 Tools & Services: Git, GitHub, VS Code, Android Studio, Firebase, Appwrite
 
